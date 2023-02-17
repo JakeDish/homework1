@@ -14,3 +14,5 @@ Added alt text to all images and icons
 Header menu now static at top of screen.
 
 Fixed in-page link to Search Engine Optimization
+
+Removed all "div" tags, replaced with more descriptive tags
